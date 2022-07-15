@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Dimitar</h1>
+<h1 align="center">:wave:Hello, I'm Dimitar:wave:</h1>
 <h3 align="center">I'm a 30 years old software engineer student from Bulgaria.</h3>
 
 <h3 align="center">About Me</h3>
