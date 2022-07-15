@@ -4,6 +4,9 @@
 <h3 align="center">:point_right: About Me: :point_left:</h3>
 <p align="left"> I'm a master's degree structural engineer from University of Architecture, Civil Engineering and Geodesy of Sofia, studied construction of buildings and facilities, and now I'm learning Web Development at SoftUni Bulgaria.My personal favorite programing language is JavaScript.</p>
 
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Computer man" style="width:100%;">
+
 <h3 align="left"> Languages and Tools</h3>
 <p align="left">These are the technologies I use most often when it comes to Web development:</p>
 <p align="left">
