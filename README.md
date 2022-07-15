@@ -40,6 +40,9 @@
 <p align="left">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=DimitarMitev92&theme=dracula" alt="My Stats"/> 
 </p>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitarMitev92&layout=compact&theme=dracula" alt="My Stats"/>
+</p>
 
  <h3 align="center"> Courses from the main program in SoftUni <h3>
 
