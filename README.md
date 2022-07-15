@@ -41,6 +41,39 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DimitarMitev92&show_icons=true&theme=dracula" alt="My Stats"/>
 </p>
 
+# <p align="center"> Courses from the main program in SoftUni <p>
+
+<a href="https://softuni.bg/trainings/courses" rel="Courses"> ![SoftUni logo][logo] </a>
+
+[logo]: https://alfa.kachi-snimka.info/images-2021/viu1653476785d.png "Logo Title Text 2"
+
+<br/>
+<br/>
+<br/>
+
+<h2> Certificates </h2>
+
+<table>
+
+<tr>
+  <th> JavaScript </th>
+</tr>
+
+<tr>
+<td>
+
+| **Course**                                                                                                                            | **Link**                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/3622/programming-basics-with-javascript-january-2022" > Programming Basics with JavaScript </a> | <a href="https://softuni.bg/certificates/details/124231/dd827ac2"> Link</a> |
+| <a href="https://softuni.bg/trainings/3791/fundamentals-in-mathematics-may-2022" > Fundamentals in Mathematics </a>                   | <a href="https://softuni.bg/certificates/details/135856/870c7298"> Link</a> |
+
+</td>
+
+</tr>
+
+</table>
+
+
 <h3 align="left">📞 Connect With Me</h3>
 <p align="left">Feel free to follow me here on GitHub or my other social medias:</p>
 <p align="left">
