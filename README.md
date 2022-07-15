@@ -73,9 +73,6 @@
 
 </table>
   
-  <img src="https://tenor.com/view/coding-gif-24297652" alt="funny GIF" width="100%">
-
-
 <h3 align="left"> Connect With Me</h3>
 <p align="left">Feel free to follow me here on GitHub or my other social medias:</p>
 <p align="left">
