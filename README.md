@@ -38,7 +38,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=DimitarMitev92&theme=radical" alt="My Stats"/> 
 </p>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitarMitev92&layout=compact&theme=radical" alt="My Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DimitarMitev92&show_icons=true&theme=radical" alt="My Stats"/>
 </p>
 
 <h3 align="left">📞 Connect With Me</h3>
