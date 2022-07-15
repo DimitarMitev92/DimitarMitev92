@@ -1,7 +1,7 @@
-<h1 align="center">:wave:Hello, I'm Dimitar:wave:</h1>
+<h1 align="center">:wave: Hello, I'm Dimitar :wave:</h1>
 <h3 align="center">I'm a 30 years old software engineer student from Bulgaria.</h3>
 
-<h3 align="center">About Me</h3>
+<h3 align="center">:point_right: About Me: :point_left:</h3>
 <p align="left"> I'm a master's degree structural engineer from University of Architecture, Civil Engineering and Geodesy of Sofia, studied construction of buildings and facilities, and now I'm learning Web Development at SoftUni Bulgaria.My personal favorite programing language is JavaScript.</p>
 
 <h3 align="left"> Languages and Tools</h3>
