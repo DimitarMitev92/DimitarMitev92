@@ -41,7 +41,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DimitarMitev92&show_icons=true&theme=dracula" alt="My Stats"/>
 </p>
 
-# <p align="center"> Courses from the main program in SoftUni <p>
+ <h3 align="center"> Courses from the main program in SoftUni <h3>
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses"> ![SoftUni logo][logo] </a>
 
