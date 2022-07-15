@@ -2,7 +2,7 @@
 <h3 align="center">I'm a 30 years old software engineer student from Bulgaria.</h3>
 
 <h3 align="center">:point_right: About Me: :point_left:</h3>
-<p align="left">     I'm a master's degree structural engineer graduated University of Architecture, Civil Engineering and Geodesy of Sofia, studied construction of buildings and facilities, and now I'm learning Web Development at Software University in Bulgaria.My favorite programing language is JavaScript! :heart:</p>
+<p align="left">\tI'm a master's degree structural engineer graduated University of Architecture, Civil Engineering and Geodesy of Sofia, studied construction of buildings and facilities, and now I'm learning Web Development at Software University in Bulgaria.My favorite programing language is JavaScript! :heart:</p>
 
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Computer man" style="width:100%;">
