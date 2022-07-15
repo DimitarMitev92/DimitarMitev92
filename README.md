@@ -32,7 +32,7 @@
 
 <h3 align="left">:fire: My Stats :</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DimitarMitev92&show_icons=true&theme=radical" alt="My Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DimitarMitev92&show_icons=true&theme=tokyonight," alt="My Stats"/>
 </p>
 <p align="left">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=DimitarMitev92&theme=radical" alt="My Stats"/> 
