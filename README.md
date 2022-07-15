@@ -32,13 +32,13 @@
 
 <h3 align="left">:fire: My Stats :</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DimitarMitev92&show_icons=true&theme=radical" alt="My Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DimitarMitev92&show_icons=true&theme=merko" alt="My Stats"/>
 </p>
 <p align="left">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=DimitarMitev92&theme=radical" alt="My Stats"/> 
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=DimitarMitev92&theme=merko" alt="My Stats"/> 
 </p>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DimitarMitev92&show_icons=true&theme=radical" alt="My Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DimitarMitev92&show_icons=true&theme=merko" alt="My Stats"/>
 </p>
 
 <h3 align="left">📞 Connect With Me</h3>
