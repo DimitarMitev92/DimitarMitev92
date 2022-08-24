@@ -96,6 +96,3 @@
     <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail Logo" width="45" height="40" title="Gmail"/>
   </a>
 </p>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=DimitarMitev92)
-
