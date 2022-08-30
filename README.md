@@ -6,10 +6,10 @@
  
  </div>
 <br>
-<h2 align="center"> About Me: </h2>
+<h2 align="center"> About Me </h2>
 <p align="left">I'm a master's degree structural engineer graduated University of Architecture, Civil Engineering and Geodesy of Sofia, studied construction of buildings and facilities, and now I'm learning Web Development at Software University in Bulgaria. My favorite programing language is JavaScript!</p>
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Computer man" >
+<img align="center" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Computer man" >
 
 <br>
 <h2 align="center">Skills</h2>
@@ -38,30 +38,25 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitarMitev92&layout=compact&theme=dracula" alt="My Stats"/>
 </p>
 <br>
-<br>
 
 <br>
 <h2 align="center">Social Networks</h2>
 
 <p align="center">
   <a href="https://www.facebook.com/dimitar.mitev.71">
-    <img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Facebook-icon.png"; style="display=inline-block;" />
+    <img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Facebook-icon.png"; style="display=inline;" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/">
-    <img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png" ; style="display=inline-block;" />
+    <img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png" ; style="display=inline;" />
   </a>
 </p>
-
 <p align="center">
   <a href="mailto:d.mitev920123@gmail.com">
-    <img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/48/Gmail-icon.png" ; style="display=inline-block;" />
+    <img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/48/Gmail-icon.png" ; style="display=inline;" />
   </a>
 </p>
-
-<br>
 <br>
 
  <h2 align="center"> Courses from the main program in SoftUni <h2>
@@ -70,8 +65,6 @@
 
 [logo]: https://alfa.kachi-snimka.info/images-2021/viu1653476785d.png "Logo Title Text 2"
 
-<br/>
-<br/>
 <br/>
 
 <h2 align="center"> Certificates </h2>
