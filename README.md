@@ -11,14 +11,15 @@
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Computer man" style="width:100%;">
 
+<img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 <br>
 <h2>Social Networks</h2>
 
 [![Facebook][1.2]][1] [![LinkedIn][2.2]][2] [![Gmail][3.2]][3]
 
-[1.2]: https://seeklogo.com/images/F/facebook-icon-logo-AEF3A8F447-seeklogo.com.png
-[2.2]: https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png
-[3.2]: https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png
+[1.2]: https://icons.iconarchive.com/icons/yootheme/social-bookmark/64/social-facebook-box-blue-icon.png
+[2.2]: https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Linkedin-icon.png
+[3.2]: https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/64/Gmail-icon.png
 [1]: https://www.facebook.com/dimitar.mitev.71
 [2]: https://www.linkedin.com/
 [3]: mailto:d.mitev920123@gmail.com
@@ -58,6 +59,7 @@
 <br>
 
  <h3 align="center"> Courses from the main program in SoftUni <h3>
+ <br>
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses"> ![SoftUni logo][logo] </a>
 
