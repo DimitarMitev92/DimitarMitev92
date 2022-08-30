@@ -9,17 +9,18 @@
 <h2 align="center"> About Me: </h2>
 <p align="left">I'm a master's degree structural engineer graduated University of Architecture, Civil Engineering and Geodesy of Sofia, studied construction of buildings and facilities, and now I'm learning Web Development at Software University in Bulgaria. My favorite programing language is JavaScript!</p>
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Computer man" style="width:100%;">
+<!-- <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Computer man" style="width:80%;"> -->
 
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
+
 <br>
 <h2>Social Networks</h2>
 
 [![Facebook][1.2]][1] [![LinkedIn][2.2]][2] [![Gmail][3.2]][3]
 
-[1.2]: https://icons.iconarchive.com/icons/yootheme/social-bookmark/64/social-facebook-box-blue-icon.png
-[2.2]: https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Linkedin-icon.png
-[3.2]: https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/64/Gmail-icon.png
+[1.2]: https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Facebook-icon.png
+[2.2]: https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png
+[3.2]: https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/48/Gmail-icon.png
 [1]: https://www.facebook.com/dimitar.mitev.71
 [2]: https://www.linkedin.com/
 [3]: mailto:d.mitev920123@gmail.com
@@ -34,7 +35,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,bootstrap,git,node.js,sass,regex" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,bootstrap,git,nodejs,sass,regex" />
   </a>
 </p>
 <p align="center">
@@ -59,6 +60,7 @@
 <br>
 
  <h3 align="center"> Courses from the main program in SoftUni <h3>
+ <br>
  <br>
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses"> ![SoftUni logo][logo] </a>
