@@ -9,10 +9,10 @@
 <h2 align="center"> About Me: </h2>
 <p align="left">I'm a master's degree structural engineer graduated University of Architecture, Civil Engineering and Geodesy of Sofia, studied construction of buildings and facilities, and now I'm learning Web Development at Software University in Bulgaria. My favorite programing language is JavaScript!</p>
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Computer man" style="width:80%; align=center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Computer man" >
 
 <br>
-<h2>Skills</h2>
+<h2 align="center">Skills</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -27,7 +27,7 @@
 <br>
 <br>
 
-<h2>My Stats</h2>
+<h2 align="center">My Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DimitarMitev92&show_icons=true&theme=dracula" alt="My Stats"/>
 </p>
@@ -41,7 +41,7 @@
 <br>
 
 <br>
-<h2>Social Networks</h2>
+<h2 align="center">Social Networks</h2>
 
 <p align="center">
   <a href="https://www.facebook.com/dimitar.mitev.71">
@@ -64,7 +64,7 @@
 <br>
 <br>
 
- <h2> Courses from the main program in SoftUni <h2>
+ <h2 align="center"> Courses from the main program in SoftUni <h2>
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses"> ![SoftUni logo][logo] </a>
 
@@ -74,7 +74,7 @@
 <br/>
 <br/>
 
-<h2> Certificates </h2>
+<h2 align="center"> Certificates </h2>
 <table>
 <tr>
   <th> JavaScript </th>
