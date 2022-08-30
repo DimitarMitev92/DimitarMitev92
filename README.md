@@ -68,7 +68,7 @@
 <br/>
 
 <h2 align="center"> Certificates </h2>
-<table>
+<table align="center">
 <tr>
   <th> JavaScript </th>
 </tr>
