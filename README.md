@@ -9,31 +9,7 @@
 <h2 align="center"> About Me: </h2>
 <p align="left">I'm a master's degree structural engineer graduated University of Architecture, Civil Engineering and Geodesy of Sofia, studied construction of buildings and facilities, and now I'm learning Web Development at Software University in Bulgaria. My favorite programing language is JavaScript!</p>
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Computer man" style="width:80%;">
-
-<br>
-<h2>Social Networks</h2>
-
-<p align="center">
-  <a href="https://www.facebook.com/dimitar.mitev.71">
-    <img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Facebook-icon.png" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:d.mitev920123@gmail.com">
-    <img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/48/Gmail-icon.png" />
-  </a>
-</p>
-
-<br>
-<br>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Computer man" style="width:80%;"align=center"">
 
 <br>
 <h2>Skills</h2>
@@ -61,6 +37,30 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitarMitev92&layout=compact&theme=dracula" alt="My Stats"/>
 </p>
+<br>
+<br>
+
+<br>
+<h2>Social Networks</h2>
+
+<p align="center">
+  <a href="https://www.facebook.com/dimitar.mitev.71">
+    <img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Facebook-icon.png"; style="display=inline-block" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png ; style="display=inline-block"" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:d.mitev920123@gmail.com">
+    <img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/48/Gmail-icon.png ; style="display=inline-block"" />
+  </a>
+</p>
+
 <br>
 <br>
 
