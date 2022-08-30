@@ -42,18 +42,18 @@
 <br>
 <h2 align="center">Social Networks</h2>
 
-<p style="display: inline;" align="center">
-  <a style="display: inline;" href="https://www.facebook.com/dimitar.mitev.71">
+<p align="center">
+  <a href="https://www.facebook.com/dimitar.mitev.71">
     <img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Facebook-icon.png"; style="display=inline;" />
   </a>
 </p>
-<p style="display: inline;" align="center">
-  <a style="display: inline;" href="https://www.linkedin.com/">
+<p align="center">
+  <a href="https://www.linkedin.com/">
     <img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png" ; style="display=inline;" />
   </a>
 </p>
-<p style="display: inline;" align="center">
-  <a style="display: inline;" href="mailto:d.mitev920123@gmail.com">
+<p align="center">
+  <a href="mailto:d.mitev920123@gmail.com">
     <img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/48/Gmail-icon.png" ; style="display=inline;" />
   </a>
 </p>
