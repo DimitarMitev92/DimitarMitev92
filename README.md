@@ -67,6 +67,7 @@
 
 <br/>
 <br>
+<br>
 
 <h2 align="center"> Certificates </h2>
 <table align="center">
