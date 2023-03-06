@@ -94,4 +94,4 @@
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=blueviolet"/>
