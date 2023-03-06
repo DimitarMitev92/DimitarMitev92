@@ -84,7 +84,7 @@
 </tr>
 </table>
  
- <a href="https://github.com/DimitarMitev92/github-profile-views-counter">
+ <a style="text-align: center;" href="https://github.com/DimitarMitev92/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=DimitarMitev92&style=for-the-badge&color=blueviolet">
 </a>
 
