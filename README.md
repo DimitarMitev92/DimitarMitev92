@@ -85,7 +85,7 @@
 </table>
  
  <a href="https://github.com/DimitarMitev92/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=DimitarMitev92&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=DimitarMitev92&style=for-the-badge&color=blueviolet">
 </a>
 
 [Ÿ HŸPE]: https://yhype.me
@@ -94,4 +94,4 @@
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=blueviolet"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
