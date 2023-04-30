@@ -41,12 +41,6 @@
 
 <br>
 <h2 align="center">Social Networks</h2>
-
-<p align="center">
-  <a href="https://www.facebook.com/dimitar.mitev.71">
-    <img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Facebook-icon.png"; style="display=inline;" />
-  </a>
-</p>
 <p align="center">
   <a href="mailto:d.mitev920123@gmail.com">
     <img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/48/Gmail-icon.png" ; style="display=inline;" />
