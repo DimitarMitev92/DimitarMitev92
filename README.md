@@ -16,12 +16,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,express,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,mongodb,mysql,jest" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,autocad,ps,bootstrap,tailwind,discord,github,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=vscode,postman,autocad,ps,vite,bootstrap,tailwind,materialui,regex,discord,github,stackoverflow" />
   </a>
 </p>
 <br>
