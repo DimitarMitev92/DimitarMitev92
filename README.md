@@ -7,7 +7,7 @@
  </div>
 <br>
 <h2 align="center"> About Me </h2>
-<p align="left">    I'm a master's degree structural engineer graduated University of Architecture, Civil Engineering and Geodesy of Sofia, studied construction of buildings and facilities, and now I'm learning Web Development at Software University in Bulgaria. My favorite programing language is JavaScript!</p>
+<p align="left">    I'm a master's degree structural engineer graduated University of Architecture, Civil Engineering and Geodesy of Sofia, studied construction of buildings and facilities, and now I'm learning Web Development at Software University in Bulgaria.</p>
 
 <img align="center" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Computer man" >
 
