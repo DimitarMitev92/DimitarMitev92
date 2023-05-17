@@ -44,13 +44,6 @@
 </p>
 <br>
 
- <h2 align="center"> Courses from the main program in SoftUni <h2>
-
-[logo]: https://alfa.kachi-snimka.info/images-2021/viu1653476785d.png "Logo Title Text 2"
-
-</br>
-<br>
-
 <h2 align="center"> Certificates </h2>
 <table align="center">
 <tr>
