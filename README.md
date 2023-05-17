@@ -9,8 +9,6 @@
 <h2 align="center"> About Me </h2>
 <p align="left">    I'm a master's degree structural engineer graduated University of Architecture, Civil Engineering and Geodesy of Sofia, studied construction of buildings and facilities, and now I'm learning Web Development at Software University in Bulgaria.</p>
 
-<img align="center" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Computer man" >
-
 <br>
 <h2 align="center">Skills</h2>
 
@@ -28,9 +26,7 @@
 <br>
 
 <h2 align="center">My Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DimitarMitev92&show_icons=true&theme=dracula" alt="My Stats"/>
-</p>
+
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=DimitarMitev92&theme=dracula" alt="My Stats"/> 
 </p>
