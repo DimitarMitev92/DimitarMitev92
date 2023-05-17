@@ -46,8 +46,6 @@
 
  <h2 align="center"> Courses from the main program in SoftUni <h2>
 
-<a href="https://softuni.bg/trainings/courses" rel="Courses" style="width: 300px"> ![SoftUni logo][logo] </a>
-
 [logo]: https://alfa.kachi-snimka.info/images-2021/viu1653476785d.png "Logo Title Text 2"
 
 </br>
