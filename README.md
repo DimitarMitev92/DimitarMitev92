@@ -47,7 +47,7 @@
 <h2 align="center"> Certificates </h2>
 <table align="center">
 <tr>
-  <th> JavaScript </th>
+  <th> SoftUni </th>
 </tr>
 <tr>
 <td>
