@@ -62,6 +62,7 @@
   | <a href="https://softuni.bg/trainings/3847/js-applications-october-2022" > JS Back-End </a> | <a href="https://softuni.bg/certificates/details/162682/8523bce1"> Link</a> |
    | <a href="https://softuni.bg/trainings/3973/reactjs-february-2023" > JS ReactJS </a> | <a href="https://softuni.bg/certificates/details/168541/3299f87c"> Link</a> |
   | <a href="https://softuni.bg/trainings/4116/mysql-may-2023" > MySQL</a> | <a href="https://softuni.bg/certificates/details/172249/17de12c0"> Link</a> |
+   | <a href="https://softuni.bg/trainings/4114/html-and-css-may-2023" > HTML & CSS</a> | <a href="https://softuni.bg/certificates/details/174798/ac3cd737"> Link</a> |
 </td>
 </tr>
 </table>
