@@ -64,6 +64,7 @@
   | <a href="https://softuni.bg/trainings/4116/mysql-may-2023" > MySQL</a> | <a href="https://softuni.bg/certificates/details/172249/17de12c0"> Link</a> |
    | <a href="https://softuni.bg/trainings/4114/html-and-css-may-2023" > HTML & CSS</a> | <a href="https://softuni.bg/certificates/details/174798/ac3cd737"> Link</a> |
    | <a href="https://softuni.bg/trainings/4112/angular-june-2023" > Angular</a> | <a href="https://softuni.bg/certificates/details/183005/f71ab6a6"> Link</a> |
+    | <a href="" > JS Web Developer Diploma</a> | <a href="https://softuni.bg/certificates/details/185259/e4097f0b"> Link</a> |
 </td>
 </tr>
 </table>
