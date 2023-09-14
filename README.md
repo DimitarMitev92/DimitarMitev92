@@ -34,14 +34,6 @@
 <br>
 
 <br>
-<h2 align="center">Contacts</h2>
-<p align="center">
-  <a href="mailto:d.mitev920123@gmail.com">
-    <img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/48/Gmail-icon.png" ; style="display=inline;" />
-  </a>
-</p>
-<br>
-
 <h2 align="center"> Certificates </h2>
 <table align="center">
 <tr>
