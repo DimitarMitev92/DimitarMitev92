@@ -58,5 +58,20 @@
 </td>
 </tr>
 </table>
+
+<table align="center">
+<tr>
+  <th> Udemy </th>
+</tr>
+<tr>
+<td>
+
+| **Courses**                                                                                                                                    | **Links**                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| <a href="https://www.udemy.com/course/nestjs-the-complete-developers-guide/?couponCode=ST21MT60724" > NestJS: The Complete Developer's Guide </a>         | <a href="https://github.com/DimitarMitev92/certificates/blob/main/UC-1c2c12d2-7db4-4e02-b854-1d8cf5aaee3a.pdf"> Link</a> |
+| <a href="https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/?kw=the+ultimate+mysql+bootcamp&src=sac&couponCode=ST21MT60724" > The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert </a>                           | <a href="https://github.com/DimitarMitev92/certificates/blob/main/UC-1f1001f3-db72-4c6b-8e53-71cf7b10085c.pdf"> Link</a> |
+</td>
+</tr>
+</table>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
