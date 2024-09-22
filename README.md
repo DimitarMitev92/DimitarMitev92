@@ -5,7 +5,7 @@
  </div>
 <br>
 <h2 align="center"> About Me </h2>
-<p align="left">    I'm a master's degree structural engineer graduated University of Architecture, Civil Engineering and Geodesy of Sofia, studied construction of buildings and facilities, and also graduated JavaScript Web Developer at Software University in Bulgaria.</p>
+<p align="center">    I'm a master's degree structural engineer graduated University of Architecture, Civil Engineering and Geodesy of Sofia, studied construction of buildings and facilities, and also graduated JavaScript Web Developer at Software University in Bulgaria.</p>
 
 <br>
 <h2 align="center">Skills</h2>
