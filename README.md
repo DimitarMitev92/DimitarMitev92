@@ -49,6 +49,7 @@
 
 | **Courses**                                                                                                                                    | **Links**                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+   | <a href="" > JS Web Developer Diploma</a> | <a href="https://softuni.bg/certificates/details/185259/e4097f0b"> Link</a> |
 | <a href="https://softuni.bg/trainings/3622/programming-basics-with-javascript-january-2022" > Programming Basics with JavaScript </a>         | <a href="https://softuni.bg/certificates/details/124231/dd827ac2"> Link</a> |
 | <a href="https://softuni.bg/trainings/3791/fundamentals-in-mathematics-may-2022" > Fundamentals in Mathematics </a>                           | <a href="https://softuni.bg/certificates/details/135856/870c7298"> Link</a> |
 | <a href="https://softuni.bg/trainings/3732/programming-fundamentals-with-javascript-may-2022" > Programming Fundamentals with JavaScript </a> | <a href="https://softuni.bg/certificates/details/139044/c77eeeca"> Link</a> |
@@ -59,7 +60,7 @@
   | <a href="https://softuni.bg/trainings/4116/mysql-may-2023" > MySQL</a> | <a href="https://softuni.bg/certificates/details/172249/17de12c0"> Link</a> |
    | <a href="https://softuni.bg/trainings/4114/html-and-css-may-2023" > HTML & CSS</a> | <a href="https://softuni.bg/certificates/details/174798/ac3cd737"> Link</a> |
    | <a href="https://softuni.bg/trainings/4112/angular-june-2023" > Angular</a> | <a href="https://softuni.bg/certificates/details/183005/f71ab6a6"> Link</a> |
-   | <a href="" > JS Web Developer Diploma</a> | <a href="https://softuni.bg/certificates/details/185259/e4097f0b"> Link</a> |
+
 </td>
 </tr>
 </table>
