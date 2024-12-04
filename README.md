@@ -30,9 +30,9 @@
 
 <h2 align="center">My Stats</h2>
 
-<a href="https://github.com/DimitarMitev92/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DimitarMitev92" />
-</a>
+<p align="center">
+ ![Dimitar's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimitarMitev92a&show_icons=true&theme=dracula)
+</p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitarMitev92&layout=compact&theme=dracula" alt="My Stats"/>
 </p>
