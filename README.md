@@ -31,7 +31,7 @@
 <h2 align="center">My Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DimitarMitev92&show_icons=true&theme=dracula" alt="My Stats"/> 
+  <img src="https://streak-stats.demolab.com/?user=DimitarMitev92&theme=radical" alt="My Stats"/> 
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitarMitev92&layout=compact&theme=dracula" alt="My Stats"/>
